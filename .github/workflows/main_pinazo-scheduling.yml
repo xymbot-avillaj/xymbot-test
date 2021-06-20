@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'pinazo-scheduling'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fa43ed417ff04b3dbdae915fd465dea4 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c73f7b997efe4ed3b3bed951e37b8e7e }}
